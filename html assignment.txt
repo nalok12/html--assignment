@@ -1,0 +1,39 @@
+Ques:1 Write a simple programme in HTML that displays the “HTML defines the content and structure of your website”on the web browser?
+Ans:  HTML is the programming language used to define the structure of web pages. HTML makes it possible to create static pages with text,heading, tablelist,images,link, and so on.
+
+<html>
+                       <head>
+                         <title>document</title>
+</head>
+                        <body>
+<h1>to<h6>
+                       </body>
+                       </html>
+Ques:2  explain the purpose of comments in HTML and provide an example of how to use comments in an HTML document?
+Ans:  The comment tag is used to insert comments in the source code. Comments are not displayed in the browser. You can use comments  to explain your code.Which can help you when you edit the source code at a later date.
+
+Ex:- <!- - -This is a comment - ->
+Ques:3  write an HTML programme that includes a heading, a paragraph of text, a horizontal line, and a line break. Arrange these elements to create a simple web page layout? 
+Ans:   <!DOCTYPE html>
+             <html>
+             <head>
+                <title>html assignment</tittle>
+</head>
+<body>
+  <h1>my first heading</h1><hr>
+  <h6>my last heading</h6><br>
+  <p>my first paragraph</p>
+</body>
+</html>
+Ques:4  write a short note on tag and element with an example?
+            Ans:  Tags are usually two types.First type is single tag and second type is pair tag
+            For example:- <html> is the open tag and </html> is the close tag.
+
+                      An element is an object on a page (such as a heading,paragraph,image ), 
+               For example:- <p>is the starting of the paragraph and </p> is closing is the paragraph 
+                       But <p>this is the paragraph</p> is a paragraph element.
+             
+          Ques:5  what is the DOCTYPE Declaration in HTML?
+              Ans:-   A  DOCTYPE  is also known as document type declaration, which informs the 
+                          The browser about the document to be expected on the web page.The HTML 
+                          Doctype not a tag or element of the HTML.                                                                                                              
